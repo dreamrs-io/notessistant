@@ -8,7 +8,7 @@ foam_template:
 # maintaining reading list
 to support [[reading books.md]]
 *goal: to maintain a book reading list in sql*
-## 🥇 Milestones
+## 🥇 Milestones #gpt-generated
 - finding a good source of great books
 - parsing data to save into a sql format #gpt-script
 
