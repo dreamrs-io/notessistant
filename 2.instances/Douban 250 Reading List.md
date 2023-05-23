@@ -6,7 +6,7 @@ cloudrive:
 foam_template:
   filepath: '2.instances/Douban 250 Reading List.md'
 ---
-# Douban 250 Reading List
+# Douban 250 Reading List #gpt-generated
 an instance of [[parsing data to save into a sql format]]
 
 # 📁 Permanent Info

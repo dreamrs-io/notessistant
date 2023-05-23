@@ -5,7 +5,7 @@ tags:
 foam_template:
   filepath: '1.protocols/parsing data to save into a sql format.md'
 ---
-# parsing data to save into a sql format
+# parsing data to save into a sql format #gpt-generated
 to support [[maintaining reading list.md]]
 *protocol is how to do something*
 ## 🥇 Milestones
@@ -16,4 +16,4 @@ to support [[maintaining reading list.md]]
 
 
 ## 🧰 Toolbox
-![Douban 250 Reading List Scraping Script](../6.codes/douban250reading.py)
+![Douban 250 Reading List Scraping Script](../6.codes/douban250reading.py) #gpt-generated
