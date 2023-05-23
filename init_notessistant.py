@@ -15,12 +15,19 @@ request_headers = {
     "Authorization": "Bearer " + api_key
 }
 
+#Logic 1
+#Looping through all #gpt-expand & #gpt-script tags
+#   pass notes within the markdown page to GPT as part of the prompt.
+#   placing #gpt-generated tags next  responses saved
+
 request_data = {
     "model": "text-davinci-003",
     "prompt": f"Write python script to {args.prompt}. Provide only code, no text",
     "max_tokens": 500,
     "temperature": 0.5
 }
+#Logic 2
+#Execute protocols listed in todo.md
 
 response = requests.post(api_endpoint, headers=request_headers, json=request_data)
 
