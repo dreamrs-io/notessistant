@@ -10,13 +10,10 @@ to support [[]]
 *protocol is how to do something*
 ## 🥇 Milestones
 - [[maintaining reading list]]
-- 
+- [[summarizing books read]]
 
 ## 📦 Instances
 - 
-
-## 💾 Output Template
-
 
 ## 🧰 Toolbox
 
