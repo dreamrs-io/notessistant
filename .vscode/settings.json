@@ -18,12 +18,12 @@
     "**/node_modules": true
   },
   "foam.edit.linkReferenceDefinitions": "off",
-  "foam.openDailyNote.directory": "journal",
+  "foam.openDailyNote.directory": "3.journals",
   "foam.openDailyNote.titleFormat": "fullDate",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "markdown.preview.breaks": true,
-  "pasteImage.path": "${projectRoot}/attachments",
+  "pasteImage.path": "${projectRoot}/4.attachments",
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
 }
