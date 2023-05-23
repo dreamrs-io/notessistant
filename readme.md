@@ -1,8 +1,8 @@
 <img src="attachments/foam-icon.png" width=100 align="left">
 
-# Foam
+# Notessistant
 
-**👋 Welcome to your new Foam Knowledge Base!**
+**👋 Welcome to your new Smart Assistant + Knowledge Base!**
 
 ## Getting started
 
