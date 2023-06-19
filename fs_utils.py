@@ -1,7 +1,7 @@
 import re
 import requests
 
-api_key = "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"
+api_key = "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"
 class FsUtils:
     @staticmethod
     def read_markdown_file(file_path):
@@ -86,5 +86,6 @@ class FsUtils:
             response_text = response.json()["choices"][0]["message"]["content"]
         else:
             print(f"Request failed with status code: {str(response.status_code)}")
+            print(response.json())
             response_text = None
         return response_text;

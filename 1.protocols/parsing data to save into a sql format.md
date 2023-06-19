@@ -29,3 +29,4 @@ to support [[maintaining reading list.md]]
 
 ## 🧰 Toolbox
 ![Douban 250 Reading List Scraping Script](../6.codes/douban250reading.py) #gpt-generated
+![Script](../6.codes/20230619.py) #gpt-generated 2023-06-19 04:14:25
